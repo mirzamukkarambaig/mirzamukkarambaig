@@ -3,7 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzamukkarambaig" alt="mirzamukkarambaig" /></a> </p>
 
+- 🔭 I’m currently working on [Malware Classification Project](https://github.com/mirzamukkarambaig/projects/tree/main/Capstone%20Project)
+
 - 🌱 I’m currently learning **AI, Machine Learning & Cyber Security**
+
+- 👯 I’m looking to collaborate on [Malware Classification Project](https://github.com/mirzamukkarambaig/projects/tree/main/Capstone%20Project)
+
+- 🤝 I’m looking for help with [Malware Classification Project](https://github.com/mirzamukkarambaig/projects/tree/main/Capstone%20Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mirzamukkarambaig/projects](https://github.com/mirzamukkarambaig/projects)
 
@@ -13,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@mirzamukkaram3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mirzamukkaram3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mirzamukkarambaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mirzamukkarambaig" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mirzamukkarambaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mirzamukkarambaig" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
