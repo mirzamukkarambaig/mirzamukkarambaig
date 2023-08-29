@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mirza Mukkaram Baig</h1>
-<h3 align="center">A Passionate Python Developer from Pakistan</h3>
+<h3 align="center">A Passionate Python Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzamukkarambaig" alt="mirzamukkarambaig" /></a> </p>
 
-- 🔭 I’m currently working on [Malware Classification Project](https://github.com/mirzamukkarambaig/projects/tree/main/Capstone%20Project)
-
 - 🌱 I’m currently learning **AI, Machine Learning & Cyber Security**
-
-- 👯 I’m looking to collaborate on [Malware Classification Project](https://github.com/mirzamukkarambaig/projects/tree/main/Capstone%20Project)
-
-- 🤝 I’m looking for help with [Malware Classification Project](https://github.com/mirzamukkarambaig/projects/tree/main/Capstone%20Project)
 
 - 👨‍💻 All of my projects are available at [https://github.com/mirzamukkarambaig/projects](https://github.com/mirzamukkarambaig/projects)
 
