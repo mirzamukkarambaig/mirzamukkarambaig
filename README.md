@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirzamukkarambaig" alt="mirzamukkarambaig" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Cyber Security**
+- 🌱 I’m currently learning **Data Engineering, Machine Learning & Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mirzamukkarambaig/projects](https://github.com/mirzamukkarambaig/projects)
 
